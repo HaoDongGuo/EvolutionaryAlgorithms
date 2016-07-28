@@ -1,0 +1,9 @@
+
+# DTLZ
+DTLZ1-7 have the formula of the optimal pareto front, we can sample the front.
+
+# WFG
+  WFG3-9 have the formula of the optimal pareto front, we can sample the front.
+  WFG1-2 don't have the formula, we can only use the running method to get the front, 
+but in this way we can't get the evenly distributed points. Or we can use the know pareto set to get the front.
+ 
