@@ -43,13 +43,13 @@
 
 2.DT based NSGAII crowding distance should be all, but the original cd uses the level based stragety.√
 
-3.Memory leak problem for projection(normal and fitting).（将投影平面的new、delete改为stl的数据类型）
+3.Memory leak problem for projection(normal and fitting).（将投影平面的new、delete改为stl的数据类型）（若是公布源码则修改规范化）
 
 4.Travel optimization.√
 
 5.Boundary replaces the parameter.√
 
-6.Time record should caculates the std value.（验证正确性后增加）
+6.Time record should caculates the std value.（验证正确性后增加）（作为文章数据来源计算mean、std）
 
 7.One versus all should be added.√
 
