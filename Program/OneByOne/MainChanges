@@ -53,6 +53,8 @@
 
 7.One versus all should be added.√
 
+8.Memory leak problem for projection(because of the delete has not been propaly used for pmatrix)√
+
 
 
 
