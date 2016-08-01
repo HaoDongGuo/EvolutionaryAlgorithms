@@ -39,17 +39,19 @@
 - 运行WFG7-9 5目标在9第20次运行出现bad_alloc错误，在任务管理器中发现，占用1g内存，说明有内存泄漏问题！
 
 ##################################################################################################################################################
-1.Problems WFG1-3 Objectives 4-6 has done MOEAD(TCH\WS) is processing!
+1.Problems WFG1-3 Objectives 4-6 has done MOEAD(TCH\WS) is processing!√
 
-2.DT based NSGAII crowding distance should be all, but the original cd uses the level based stragety.
+2.DT based NSGAII crowding distance should be all, but the original cd uses the level based stragety.√
 
-3.Memory leak problem for projection(normal and fitting).
+3.Memory leak problem for projection(normal and fitting).（将投影平面的new、delete改为stl的数据类型）
 
-4.Travel optimization.
+4.Travel optimization.√
 
-5.Boundary replaces the parameter.
+5.Boundary replaces the parameter.√
 
-6.Time record should caculates the std value.
+6.Time record should caculates the std value.（验证正确性后增加）
+
+7.One versus all should be added.√
 
 
 
